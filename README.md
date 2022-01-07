@@ -15,8 +15,6 @@
 Connect with me and let´s play --> [![Steam Badge](https://img.shields.io/badge/-Steam-darkblue?style=flat-square&logo=Steam&logoColor=white&link=https://steamcommunity.com/profiles/76561198244690554)](https://steamcommunity.com/profiles/76561198244690554)
 
 
-<p align="center" >
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabiMarximo&layout=compact)](https://github.com/GabiMarximo/github-readme-stats)
 ![GabiMarximo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabiMarximo&show_icons=true&theme=buefy)
-</p>
 
