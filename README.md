@@ -17,7 +17,7 @@
 
 <div align="center">
 
-<h3> Just Starting <img src="https://media.giphy.com/media/mTs11L9uuyGiI/giphy.gif" width="75px"> </h3>
+<h3> <img src="https://media.giphy.com/media/3o7budeSc2lRUq8Du0/giphy.gif" width="75px"> Just Starting <img src="https://media.giphy.com/media/3o7budeSc2lRUq8Du0/giphy.gif" width="75px"> </h3>
 
 </div>
 
