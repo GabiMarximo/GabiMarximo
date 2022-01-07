@@ -8,5 +8,5 @@
 - 🎓 I'm currently studying Information Technology Management at UNICID.
 - 😄 In my free time, I watch movies, go to the theater and play LOL, CS and more.
 
-Connect with me and let´s play --> [![Steam Badge](https://img.shields.io/badge/-Steam-0e76a8?style=flat-square&logo=Steam&logoColor=white&link=https://steamcommunity.com/profiles/76561198244690554)](https://steamcommunity.com/profiles/76561198244690554)
+Connect with me and let´s play --> [![Steam Badge](https://img.shields.io/badge/-Steam-darkblue?style=flat-square&logo=Steam&logoColor=white&link=https://steamcommunity.com/profiles/76561198244690554)](https://steamcommunity.com/profiles/76561198244690554)
 
