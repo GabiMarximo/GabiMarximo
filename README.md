@@ -4,6 +4,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/GabiMarximo)](https://github.com/GabiMarximo)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielle-caldato-marximo/)](https://www.linkedin.com/in/gabrielle-caldato-marximo/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0e76a8?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/gabrielle.caldato)](https://www.facebook.com/gabrielle.caldato)
+[![Steam Badge](https://img.shields.io/badge/-Steam-darkblue?style=flat-square&logo=Steam&logoColor=white&link=https://steamcommunity.com/profiles/76561198244690554)](https://steamcommunity.com/profiles/76561198244690554)
 
  </div>
 
@@ -12,9 +13,10 @@
 - 🎓 I'm currently studying Information Technology Management at UNICID.
 - 🏝️ In my free time, I watch movies, go to the theater and play LOL, CS and more.
 
-Connect with me and let´s play --> [![Steam Badge](https://img.shields.io/badge/-Steam-darkblue?style=flat-square&logo=Steam&logoColor=white&link=https://steamcommunity.com/profiles/76561198244690554)](https://steamcommunity.com/profiles/76561198244690554)
 
+<p align="center" >
+<a[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabiMarximo&layout=compact)](https://github.com/GabiMarximo/github-readme-stats)
+          </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabiMarximo&layout=compact)](https://github.com/GabiMarximo/github-readme-stats)
-![GabiMarximo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabiMarximo&show_icons=true&theme=buefy)
+</p>
 
