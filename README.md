@@ -1,5 +1,5 @@
 <div align="center">
- <h1>Hi there, I'm Gabrielle <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <img src="https://media.giphy.com/media/1S9kD6xm4601O/giphy.gif" width="75px"> </h1>
+ <h1>Hi there, I'm Gabrielle <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <img src="https://media.giphy.com/media/OsxEuns6kqXIY/giphy.gif" width="75px"> </h1>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/GabiMarximo)](https://github.com/GabiMarximo)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielle-caldato-marximo/)](https://www.linkedin.com/in/gabrielle-caldato-marximo/)
