@@ -7,5 +7,6 @@
 - 🌱 I’m currently learning about __Test Automation__, __Java__, & __HTML__.
 - 🎓 I'm currently studying Information Technology Management at UNICID.
 - 😄 In my free time, I watch movies, go to the theater and play LOL, CS and more.
- 
- How to reach me there: [![Steam Badge](https://img.shields.io/badge/-Steam-0e76a8?style=flat-square&logo=Steam&logoColor=white&link=https://steamcommunity.com/profiles/76561198244690554)](https://steamcommunity.com/profiles/76561198244690554)
+
+Connect with me and play --> [![Steam Badge](https://img.shields.io/badge/-Steam-0e76a8?style=flat-square&logo=Steam&logoColor=white&link=https://steamcommunity.com/profiles/76561198244690554)](https://steamcommunity.com/profiles/76561198244690554)
+
