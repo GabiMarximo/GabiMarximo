@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Hi there, I'm Gabrielle <img src="https://media.giphy.com/media/OsxEuns6kqXIY/giphy.gif" width="75px"> </h1>
+<h1> <img src="https://media.giphy.com/media/OsxEuns6kqXIY/giphy.gif" width="75px"> Hi there, I'm Gabrielle <img src="https://media.giphy.com/media/OsxEuns6kqXIY/giphy.gif" width="75px"> </h1>
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/profiles/76561198244690554) &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/gabrielle-caldato-marximo/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/gabrielle.caldato)  
  </div>
