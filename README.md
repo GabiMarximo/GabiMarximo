@@ -15,8 +15,9 @@
 
 
 <p align="center" >
-<a[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabiMarximo&layout=compact)](https://github.com/GabiMarximo/github-readme-stats)
-          </a>
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabiMarximo&layout=compact)](https://github.com/GabiMarximo/github-readme-stats)
+  
 
 </p>
 
