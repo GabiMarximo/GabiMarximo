@@ -15,6 +15,7 @@
 - 🏝️ In my free time, I watch movies, go to the theater and play LOL, CS and more.
 
 <h2 align="center">⚡ Stats ⚡</h2>
+
 | <a href="https://github.com/GabiMarximo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GabiMarximo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="GabiMarximo's github stats" /></a> | <a href="https://github.com/GabiMarximo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabiMarximo&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |  
 
