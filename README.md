@@ -8,12 +8,13 @@
 
  </div>
 
+**About me**
 -	👩‍💻 I’m currently working at IBM as a Intern.
 - 💡 I’m currently learning about __Test Automation__, __Java__, & __HTML__.
 - 🎓 I'm currently studying Information Technology Management at UNICID.
 - 🏝️ In my free time, I watch movies, go to the theater and play LOL, CS and more.
 
-
+**I´ve been work on...**
 | <a href="https://github.com/GabiMarximo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GabiMarximo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="GabiMarximo's github stats" /></a> | <a href="https://github.com/GabiMarximo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabiMarximo&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |  
 
