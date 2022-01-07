@@ -12,6 +12,8 @@ Connect with me and let´s play --> [![Steam Badge](https://img.shields.io/badge
 
 <a href="https://github.com/GabiMarximo/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GabiMarximo&repo=github-readme-stats" />
+</a><a href="https://github.com/GabiMarximo/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GabiMarximo&repo=convoychat" />
 </a>
 
 I've been working on...
