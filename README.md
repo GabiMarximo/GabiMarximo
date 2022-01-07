@@ -15,6 +15,5 @@ I've been working on...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabiMarximo&layout=compact)](https://github.com/GabiMarximo/github-readme-stats)
 
-[![GabiMarximo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabiMarximo)](https://github.com/GabiMarximo/github-readme-stats)
-![GabiMarximo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabiMarximo&show_icons=true&theme=synthwave)
+![GabiMarximo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabiMarximo&show_icons=true&theme=dracula)
 
