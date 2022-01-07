@@ -1,4 +1,3 @@
-[![Header](https://raw.githubusercontent.com/GabiMarximo/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 
 ### Hi there, my name is Gabrielle 👋💖
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/GabiMarximo)](https://github.com/GabiMarximo)
@@ -15,7 +14,7 @@ Connect with me and let´s play --> [![Steam Badge](https://img.shields.io/badge
 
 I've been working on...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabiMarximo&layout=compact)](https://github.com/GabiMarximo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabiMarximo&layout=buefy)](https://github.com/GabiMarximo/github-readme-stats)
 
 ![GabiMarximo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabiMarximo&show_icons=true&theme=buefy)
 
