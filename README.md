@@ -1,11 +1,7 @@
 <div align="center">
 <h1>Hi there, I'm Gabrielle <img src="https://media.giphy.com/media/OsxEuns6kqXIY/giphy.gif" width="75px"> </h1>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/GabiMarximo)](https://github.com/GabiMarximo)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielle-caldato-marximo/)](https://www.linkedin.com/in/gabrielle-caldato-marximo/)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-0e76a8?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/gabrielle.caldato)](https://www.facebook.com/gabrielle.caldato)
-[![Steam Badge](https://img.shields.io/badge/-Steam-darkblue?style=flat-square&logo=Steam&logoColor=white&link=https://steamcommunity.com/profiles/76561198244690554)](https://steamcommunity.com/profiles/76561198244690554)
-
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/profiles/76561198244690554) &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/gabrielle-caldato-marximo/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/gabrielle.caldato)  
  </div>
 
 **About me**
