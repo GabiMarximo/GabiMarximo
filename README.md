@@ -14,7 +14,7 @@ Connect with me and let´s play --> [![Steam Badge](https://img.shields.io/badge
 
 I've been working on...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabiMarximo&layout=buefy)](https://github.com/GabiMarximo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabiMarximo&layout=compact&bg_color=COLOR1)](https://github.com/GabiMarximo/github-readme-stats)
 
 ![GabiMarximo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabiMarximo&show_icons=true&theme=buefy)
 
